@@ -1,0 +1,17 @@
+{
+  "name": "simple-users-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": "12.16.2"
+  },
+  "author": "maheshhp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
